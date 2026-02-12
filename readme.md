@@ -63,7 +63,7 @@ DirectX 10 GPU
 100 MB storage
 
 🛠️ Build from Source
-git clone https://github.com/yourusername/invader_swarm.git
+https://github.com/Vijay-Sarathi-R-S/arcade_python_game/edit/main
 cd invader_swarm
 pip install arcade pyinstaller
 python invader_swarm.py
@@ -75,11 +75,4 @@ pyinstaller --onefile --windowed ^
 --add-data "high_scores.json;." ^
 invader_swarm.py
 
-📁 Structure
-invader_swarm/
-├── assets/
-│   ├── images/
-│   └── sounds/
-├── invader_swarm.py
-├── high_scores.json
-└── README.md
+
